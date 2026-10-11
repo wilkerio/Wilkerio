@@ -13,41 +13,41 @@
   <text x="0" y="18" class="title">DISTRIBUIÇÃO DE LINGUAGEM NOS REPOSITÓRIOS (bytes de código real)</text>
   <g clip-path="inset(0 round 4px)">
     <rect x="0" y="36" width="700" height="14" fill="#161b22"/>
-    <g transform="translate(0, 36)"><rect class="seg" style="animation-delay:0.00s" width="210.21227366330575" height="14" fill="#f1e05a"/></g>
-<g transform="translate(210.21227366330575, 36)"><rect class="seg" style="animation-delay:0.08s" width="170.03587888320146" height="14" fill="#3178c6"/></g>
-<g transform="translate(380.2481525465072, 36)"><rect class="seg" style="animation-delay:0.16s" width="118.08936113047825" height="14" fill="#663399"/></g>
-<g transform="translate(498.33751367698545, 36)"><rect class="seg" style="animation-delay:0.24s" width="115.87890810762512" height="14" fill="#e34c26"/></g>
-<g transform="translate(614.2164217846106, 36)"><rect class="seg" style="animation-delay:0.32s" width="84.76443362686803" height="14" fill="#00ADD8"/></g>
-<g transform="translate(698.9808554114786, 36)"><rect class="seg" style="animation-delay:0.40s" width="0.7519637341373043" height="14" fill="#336790"/></g>
-<g transform="translate(699.732819145616, 36)"><rect class="seg" style="animation-delay:0.48s" width="0.21880063442221517" height="14" fill="#89e051"/></g>
-<g transform="translate(699.9516197800382, 36)"><rect class="seg" style="animation-delay:0.56s" width="0.048380219961884234" height="14" fill="#484f58"/></g>
+    <g transform="translate(0, 36)"><rect class="seg" style="animation-delay:0.00s" width="207.44916753712673" height="14" fill="#f1e05a"/></g>
+<g transform="translate(207.44916753712673, 36)"><rect class="seg" style="animation-delay:0.08s" width="172.48400692764397" height="14" fill="#3178c6"/></g>
+<g transform="translate(379.9331744647707, 36)"><rect class="seg" style="animation-delay:0.16s" width="120.97491938582425" height="14" fill="#663399"/></g>
+<g transform="translate(500.9080938505949, 36)"><rect class="seg" style="animation-delay:0.24s" width="114.46454342999458" height="14" fill="#e34c26"/></g>
+<g transform="translate(615.3726372805895, 36)"><rect class="seg" style="animation-delay:0.32s" width="83.62195445187734" height="14" fill="#00ADD8"/></g>
+<g transform="translate(698.9945917324669, 36)"><rect class="seg" style="animation-delay:0.40s" width="0.741828552790115" height="14" fill="#336790"/></g>
+<g transform="translate(699.736420285257, 36)"><rect class="seg" style="animation-delay:0.48s" width="0.2158515771630997" height="14" fill="#89e051"/></g>
+<g transform="translate(699.9522718624202, 36)"><rect class="seg" style="animation-delay:0.56s" width="0.04772813757988858" height="14" fill="#484f58"/></g>
 
   </g>
   <g transform="translate(0, 84)">
     <g class="leg" style="animation-delay:0.60s" transform="translate(0, 0)">
       <rect width="10" height="10" y="-9" rx="2" fill="#f1e05a"/>
       <text x="16" y="0" class="leg-name">JavaScript</text>
-      <text x="16" y="14" class="leg-pct">30.0%</text>
+      <text x="16" y="14" class="leg-pct">29.6%</text>
     </g>
 <g class="leg" style="animation-delay:0.65s" transform="translate(175, 0)">
       <rect width="10" height="10" y="-9" rx="2" fill="#3178c6"/>
       <text x="16" y="0" class="leg-name">TypeScript</text>
-      <text x="16" y="14" class="leg-pct">24.3%</text>
+      <text x="16" y="14" class="leg-pct">24.6%</text>
     </g>
 <g class="leg" style="animation-delay:0.70s" transform="translate(350, 0)">
       <rect width="10" height="10" y="-9" rx="2" fill="#663399"/>
       <text x="16" y="0" class="leg-name">CSS</text>
-      <text x="16" y="14" class="leg-pct">16.9%</text>
+      <text x="16" y="14" class="leg-pct">17.3%</text>
     </g>
 <g class="leg" style="animation-delay:0.75s" transform="translate(525, 0)">
       <rect width="10" height="10" y="-9" rx="2" fill="#e34c26"/>
       <text x="16" y="0" class="leg-name">HTML</text>
-      <text x="16" y="14" class="leg-pct">16.6%</text>
+      <text x="16" y="14" class="leg-pct">16.4%</text>
     </g>
 <g class="leg" style="animation-delay:0.80s" transform="translate(0, 24)">
       <rect width="10" height="10" y="-9" rx="2" fill="#00ADD8"/>
       <text x="16" y="0" class="leg-name">Go</text>
-      <text x="16" y="14" class="leg-pct">12.1%</text>
+      <text x="16" y="14" class="leg-pct">11.9%</text>
     </g>
 <g class="leg" style="animation-delay:0.85s" transform="translate(175, 24)">
       <rect width="10" height="10" y="-9" rx="2" fill="#336790"/>
