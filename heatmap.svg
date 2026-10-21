@@ -8,7 +8,7 @@
     .legend-label { font: 400 10px "Cascadia Code","Fira Code",monospace; fill: #6e7681; }
   </style>
   <rect width="100%" height="100%" fill="#0d1117" rx="8"/>
-  <text x="20" y="18" class="total">3978 contribuições no último ano</text>
+  <text x="20" y="18" class="total">4000 contribuições no último ano</text>
   <text x="20" y="34" class="month">out</text>
 <text x="48" y="34" class="month">nov</text>
 <text x="118" y="34" class="month">dez</text>
@@ -389,8 +389,8 @@
 <rect class="cell" x="734" y="126" width="11" height="11" rx="2" fill="#161b22" opacity="0" style="animation-delay:0.684s"><title>2026-10-17</title></rect>
 <rect class="cell" x="748" y="42" width="11" height="11" rx="2" fill="#161b22" opacity="0" style="animation-delay:0.624s"><title>2026-10-18</title></rect>
 <rect class="cell" x="748" y="56" width="11" height="11" rx="2" fill="#7a6138" opacity="0" style="animation-delay:0.636s"><title>2026-10-19</title></rect>
-<rect class="cell" x="748" y="70" width="11" height="11" rx="2" fill="#161b22" opacity="0" style="animation-delay:0.648s"><title>2026-10-20</title></rect>
-<rect class="cell" x="748" y="84" width="11" height="11" rx="2" fill="#161b22" opacity="0" style="animation-delay:0.660s"><title></title></rect>
+<rect class="cell" x="748" y="70" width="11" height="11" rx="2" fill="#7a6138" opacity="0" style="animation-delay:0.648s"><title>2026-10-20</title></rect>
+<rect class="cell" x="748" y="84" width="11" height="11" rx="2" fill="#161b22" opacity="0" style="animation-delay:0.660s"><title>2026-10-21</title></rect>
 <rect class="cell" x="748" y="98" width="11" height="11" rx="2" fill="#161b22" opacity="0" style="animation-delay:0.672s"><title></title></rect>
 <rect class="cell" x="748" y="112" width="11" height="11" rx="2" fill="#161b22" opacity="0" style="animation-delay:0.684s"><title></title></rect>
 <rect class="cell" x="748" y="126" width="11" height="11" rx="2" fill="#161b22" opacity="0" style="animation-delay:0.696s"><title></title></rect>
